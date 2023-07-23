@@ -1,7 +1,22 @@
-# Vue 3 + Vite
+<div align="center">
+  <img src="./docs/img/juggling_icon.png" alt="icon" width="200">
+</div>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<div align="center">
 
-## Recommended IDE Setup
+# Artist on the street
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Aplicación para ayudar a los artistas callejeros a encontrar lugares idóneos para trabajar, comer, alojarse y mucho más.
+
+</div>
+
+## Mockups
+
+<p align="center">
+ <img src="./docs/img/mockup_1_.png" alt="Mockup_1">
+</p>
+
+## Referencias
+
+- [Configurar enrutador](https://levelup.gitconnected.com/set-up-a-vue-app-running-on-vite-e816247a24e2) o también [aqui](https://aymanemx.com/posts/set-up-vue-app-running-on-vite/)
+- [Juggling icons created by Vectors Market - Flaticon](https://www.flaticon.com/free-icons/juggling)
