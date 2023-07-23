@@ -13,7 +13,7 @@ Aplicación para ayudar a los artistas callejeros a encontrar lugares idóneos p
 ## Mockups
 
 <p align="center">
- <img src="./docs/img/mockup_1_.png" alt="Mockup_1">
+ <img src="./docs/img/mockup_1.png" alt="Mockup_1">
 </p>
 
 ## Referencias
